@@ -1,0 +1,12 @@
+Perform a two-sample t-test on the following data:
+
+Data 1: [18.4, 19.1, 17.9, 18.7, 18.3]
+Data 2: [20.2, 20.5, 20.1, 20.3, 20.4]
+Use significance level α = 0.05 to determine whether the population means differ.
+
+Tasks
+State  H0  and  H1 . You will assume equal variances (pooled).
+Compute the sample means, sample variances (ddof = 1), and the mean difference.
+Calculate the t-statistic, degrees of freedom, and the two-tailed p-value.
+Construct the 95% confidence interval for the mean difference.
+Decision & Interpretation: Conclude (reject / fail to reject  H0 ) and explain the result in one or two plain-English sentences.
